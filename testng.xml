@@ -1,0 +1,8 @@
+<suite name="test" thread-count="1"
+       verbose="4">>
+    <test name="F Test">
+        <classes>
+            <class name="MovieClip.Tests.BaseTestClass"/>
+        </classes>>
+    </test>
+</suite>

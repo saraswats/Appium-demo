@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/ATUReporter_Selenium_testNG_5.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/ExcelReportGenerator-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/gson-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/guice-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/java-client-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/reportng-1.1.4.zip"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/selenium-server-standalone-2.48.2 (2).jar"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="/Users/DeepakPunia/Documents/Code/SBTV_Movieclip/lib/velocity-1.7.0.redhat-5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
